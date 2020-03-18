@@ -1,9 +1,9 @@
 Manuscript,Canonical Story ID,Canonical Story Title,Folio Start,Column Start,Line Start,Folio End,Column End,Line End,Miracle Number,Number of Paintings,Incipit,Macomber Incipit,Confidence Score,Notes
-AECE (HMML) 1,7,"When the Holy Family encounters brigands during their return journey from Egypt, Christ repairs the broken sword of Tetos.",30r,,,30r,,,,,,FALSE,,
-AECE (HMML) 1,13,"The election of Patriarch Matthew I ,",63r,,,63r,,,,,,FALSE,,
-AECE (HMML) 1,13,"The election of Patriarch Matthew I ,",98r,,,98r,,,,,,FALSE,,
-AECE (HMML) 1,14,The repentant knight who could pray only the Hail Mary.,40v,,,40v,,,,,,FALSE,,
-AECE (HMML) 1,16,"A nun sacristan elopes with a priest, but afterwards they repent.",15r,,,15r,,,,,,FALSE,,
+AECE (HMML) 1,7,"When the Holy Family encounters brigands during their return journey from Egypt, Christ repairs the broken sword of Tetos.",30r,3,10,30r,3,20,1,5,፮ተአምሪሃ፡ ቅድስት፡ ማርያም፡ አምላክ፨ ወበረከታ፤ ምስለ፤ ክርስቶስ፡ ዓለም፡ ወሀሎ፡ መስተፅዕነ፡ ዘስሙ፡ ኃጥእ፡ ፍናዊሁ፡ ወባሕቱ፤ እግዚኣብሔር፤ እግዝእትነ፡ መርሐቶ፡ መድኃኒተ፡ ወነስሐ፡ ኃጢአቱ።,FALSE,High,"Column starts etc are a test, delete. WLB"
+AECE (HMML) 1,13,"The election of Patriarch Matthew I ,",63r,100,500,63r,2,30,,,,FALSE,,
+AECE (HMML) 1,13,"The election of Patriarch Matthew I ,",98r,1,1,98r,4,4,,,,FALSE,,
+AECE (HMML) 1,14,The repentant knight who could pray only the Hail Mary.,40v,2,2,40v,5,5,,,,FALSE,,
+AECE (HMML) 1,16,"A nun sacristan elopes with a priest, but afterwards they repent.",15r,3,3,15r,6,6,,,,FALSE,,
 AECE (HMML) 1,19,The mighty Goliath threatens to destroy the monastery of Saint Mary.,9v,,,9v,,,,,,FALSE,,
 AECE (HMML) 1,27,The events that occurred during the captivity of Abbots Samuˀel of Däbrä Qaləmon and John of Scete.,10v,,,10v,,,,,,FALSE,,
 AECE (HMML) 1,33,The Muslims who stole the furnishings of a church of Saint Mary located near the western boundary of Ethiopia and were struck by lightning.,11b,,,11b,,,,,,FALSE,,
@@ -31,10 +31,10 @@ AECE (HMML) 1,131,The faded icon of Saint Mary that the mother-in-law wanted to 
 AECE (HMML) 1,131,The faded icon of Saint Mary that the mother-in-law wanted to discard.,112b,,,112b,,,,,,FALSE,,
 AECE (HMML) 1,135,The sinful deacon who was healed by a drop of Saint Mary's milk.,79a,,,79a,,,,,,FALSE,,
 AECE (HMML) 1,136,The brigand whom the king's soldiers could not kill.,79a,,,79a,,,,,,FALSE,,
-AECE (HMML) 1,137,The Emperor of Rome who erected an altar in his palace.,113a,,,113a,,,,,,FALSE,,
+AECE (HMML) 1,137,The Emperor of Rome who erected an altar in his palace.,113a,,,113a,,,,,,FALSE,,"testing again, more"
 AECE (HMML) 1,140,The sinful deacon whom his enemies could not kill until he had confessed himself to a priest.,28b,,,28b,,,,,,FALSE,,rsk test change
 AECE (HMML) 1,142,"The deacon's prayer that contained five times ""Rejoice!"" [tafassehiyat].",29b,,,29b,,,,,,FALSE,,rsk testing testing
-AECE (HMML) 1,147,The Jewish boy who received Holy Communion with his Christian companions.,58a,,,58a,,,,,,FALSE,,
+AECE (HMML) 1,147,The Jewish boy who received Holy Communion with his Christian companions.,58a,,,58a,,,,,,FALSE,,rsk testing testing
 AECE (HMML) 1,148,The pregnant woman who was caught by the tide while going to the church of Saint Michael (Mont Saint Michel),35b,,,35b,,,,,,FALSE,,
 AECE (HMML) 1,152,The widow who prayed to Saint Mary and saved her only son from death by hanging.,34a,,,34a,,,,,,FALSE,,
 AECE (HMML) 1,154,The two women who were attacked by robbers on their way to church.,14b,,,14b,,,,,,FALSE,,
@@ -44,7 +44,7 @@ AECE (HMML) 1,160,The bee keeper who consulted a sorceress to have more honey.,5
 AECE (HMML) 1,161,The pious monk (or: Hebrew from Akhmim) whom Saint Mary made young.,7b,,,7b,,,,,,FALSE,,
 AECE (HMML) 1,161,The pious monk (or: Hebrew from Akhmim) whom Saint Mary made young.,52a,,,52a,,,,,,FALSE,,
 AECE (HMML) 1,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,8a,,,8a,,,,,,FALSE,,
-AECE (HMML) 1,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,37a,,,37a,,,,,,FALSE,,
+AECE (HMML) 1,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,37a,,,37a,,,,,,FALSE,,more rsk test test
 AECE (HMML) 1,162,The pious monk scribe who used to write Saint Mary's name in golden ink.,53a,,,53a,,,,,,FALSE,,
 AECE (HMML) 1,163,"The Muslim whom Saint Mary told to receive baptism. Later, as Bishop of Rome, he cut off his hand because of a carnal thought.",8b,,,8b,,,,,,FALSE,,
 AECE (HMML) 1,163,"The Muslim whom Saint Mary told to receive baptism. Later, as Bishop of Rome, he cut off his hand because of a carnal thought.",38a,,,38a,,,,,,FALSE,,
